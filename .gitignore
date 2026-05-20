@@ -1,0 +1,14 @@
+# Ocultar absolutamente todo en el repositorio
+/*
+
+# Excepto el archivo 
+!.gitignore
+
+# Permitir tu carpeta pública
+!/Clase 1
+!/Clase 2
+
+# Bloquear archivos temporales dentro de las carpetas pública
+**/.ipynb_checkpoints/
+*.csv
+**/*.csv
