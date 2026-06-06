@@ -10,7 +10,5 @@
 !/Clase 3
 !/Clase 5
 
-# Bloquear archivos temporales dentro de las carpetas pública
+# Bloquea archivos temporales dentro de las carpetas públicas
 **/.ipynb_checkpoints/
-*.csv
-**/*.csv
